@@ -1,7 +1,7 @@
 
 ---
 
-## 🚀 Deployment
+## Deployment
 
 This project is deployed using **GitHub Pages**.
 
@@ -14,7 +14,7 @@ This project is deployed using **GitHub Pages**.
 
 ---
 
-## 📌 Notes
+## Notes
 
 - All asset paths use **relative paths** to ensure compatibility with GitHub Pages
 - The site is fully static and does not require any backend or build process
@@ -22,12 +22,12 @@ This project is deployed using **GitHub Pages**.
 
 ---
 
-## 📄 License
+## License
 
 This project is for personal and educational use.
 
 ---
 
-## ✨ Author
+## Author
 
 Developed with care by **Kefitup**  
